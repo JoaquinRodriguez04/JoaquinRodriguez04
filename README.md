@@ -7,7 +7,9 @@ const presentation = {
   name: "Joaquin",
   surname:"Rodriguez",
   years: "18",
+  hobbies:"bodyboard",
   languages: [Javascript, HTML, CSS],
+  junior developer:True,
   {
 ```
 ---

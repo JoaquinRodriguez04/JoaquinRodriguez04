@@ -1,6 +1,6 @@
 <h1>Hi👋, how are you. I'm Joaquin Rodriguez!<h1>
 <p><img align="center" src="https://github.com/JoaquinRodriguez04/JoaquinRodriguez04/blob/main/gif_type.gif"></p>
-<h2>I'm going to introduce myself coding! </h2> 
+<h2>I'm going to introduce myself coding!</h2> 
 
 ```javascript
 const presentation = {
@@ -13,6 +13,7 @@ const presentation = {
   {
 ```
 ---
+<h2>technologies that I use.<h2>
 <p align="left">
 	<img title="html" src="https://github.com/JoaquinRodriguez04/JoaquinRodriguez04/blob/main/html.svg" width="50" height="40" />
 	<img title="css" src="https://github.com/JoaquinRodriguez04/JoaquinRodriguez04/blob/main/icons8-css3.svg" width="50" height="40" />

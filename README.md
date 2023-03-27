@@ -14,7 +14,7 @@ const presentation = {
 ```
 ---
 <p align="left">
-	<img title="js" src="" width="70" height="40" />
+	<img title="js" src="https://github.com/JoaquinRodriguez04/JoaquinRodriguez04/blob/main/js_svg.svg" width="70" height="40" />
 	<img title="html" src="" width="80" height="40" />
 	<img title="css" src="" width="40" height="40" />
 	<img title="Python" src="" width="40" height="40" />

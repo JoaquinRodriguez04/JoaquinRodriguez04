@@ -1,6 +1,5 @@
-
 <h1>Hi👋, how are you. I'm Joaquin Rodriguez!<h1>
-<p><img align="center" src="https://github.com/JoaquinRodriguez04/JoaquinRodriguez04/blob/main/gif_type.gif"></p>
+<p><img src="https://github.com/JoaquinRodriguez04/JoaquinRodriguez04/blob/main/gif_white.gif" width="100%" height="400px"></p>
 <h2>I'm going to introduce myself coding!</h2> 
 
 ```javascript

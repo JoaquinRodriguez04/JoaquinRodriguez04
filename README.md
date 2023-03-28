@@ -1,3 +1,4 @@
+[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
 <h1>Hi👋, how are you. I'm Joaquin Rodriguez!<h1>
 <p><img align="center" src="https://github.com/JoaquinRodriguez04/JoaquinRodriguez04/blob/main/gif_type.gif"></p>
 <h2>I'm going to introduce myself coding!</h2> 
@@ -14,9 +15,10 @@ const presentation = {
 ```
 ---
 <h2>social networks<h2>
-<p align="left">
-	<img title="instagram" src="https://github.com/JoaquinRodriguez04/JoaquinRodriguez04/blob/main/html.svg" width="50" height="40" />
-</p>
+<a href="[https://www.instagram.com/alex.naiman.4/](https://www.instagram.com/joaquinrodriguezz_/)">
+	<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" width="50" height="50px"/>
+</a>
+	
 <h2>technologies that I use.<h2>
 <p align="left">
 	<img title="html" src="https://github.com/JoaquinRodriguez04/JoaquinRodriguez04/blob/main/html.svg" width="50" height="40" />

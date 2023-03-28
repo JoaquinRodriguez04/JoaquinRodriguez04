@@ -13,6 +13,10 @@ const presentation = {
   {
 ```
 ---
+<h2>social networks<h2>
+<p align="left">
+	<img title="instagram" src="https://github.com/JoaquinRodriguez04/JoaquinRodriguez04/blob/main/html.svg" width="50" height="40" />
+</p>
 <h2>technologies that I use.<h2>
 <p align="left">
 	<img title="html" src="https://github.com/JoaquinRodriguez04/JoaquinRodriguez04/blob/main/html.svg" width="50" height="40" />

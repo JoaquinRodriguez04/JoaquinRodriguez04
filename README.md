@@ -19,7 +19,7 @@ const presentation = {
 </a>
 
 <h2>follow me on linkedin!<h2>	
-<a href="www.linkedin.com/in/joaquinrodriguez2004webdeveloper">
+<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
 	<img title="linkedin" src="https://github.com/JoaquinRodriguez04/JoaquinRodriguez04/blob/main/linkedin_icon-icons.com_65929.svg" width="50" height="40" />
 </a>	
 

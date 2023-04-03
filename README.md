@@ -17,7 +17,12 @@ const presentation = {
 <a href="https://www.instagram.com/joaquinrodriguezz_/">
 	<img src="https://github.com/JoaquinRodriguez04/JoaquinRodriguez04/blob/main/instagram_icon.svg" width="50" height="50px"/>
 </a>
-	
+
+<h2>follow me on linkedin!<h2>	
+<a href="www.linkedin.com/in/joaquinrodriguez2004webdeveloper">
+	<img title="linkedin" src="https://github.com/JoaquinRodriguez04/JoaquinRodriguez04/blob/main/html.svg" width="50" height="40" />
+</a>	
+
 <h2>technologies that I use.<h2>
 <p align="left">
 	<img title="html" src="https://github.com/JoaquinRodriguez04/JoaquinRodriguez04/blob/main/html.svg" width="50" height="40" />

@@ -15,7 +15,7 @@ const presentation = {
 ---
 <h2>social networks<h2>
 <a href="https://www.instagram.com/joaquinrodriguezz_/">
-	<img src="https://github.com/JoaquinRodriguez04/JoaquinRodriguez04/blob/main/instagram_icon.svg" width="50" height="50px"/>
+	<img src="https://github.com/JoaquinRodriguez04/JoaquinRodriguez04/blob/main/instagram.ico" width="50" height="50px"/>
 </a>
 
 <h2>follow me on linkedin!<h2>	

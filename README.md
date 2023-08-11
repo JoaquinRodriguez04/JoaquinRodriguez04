@@ -1,10 +1,12 @@
-<div align="center">
-  <img height="400" src="https://github.com/JoaquinRodriguez04/JoaquinRodriguez04/blob/main/my.gif" />
-</div>
-
 ###
 
 <h1 align="left">Hey <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> What's up?</h1>
+
+###
+
+<div align="center">
+  <img height="350" src="https://github.com/JoaquinRodriguez04/JoaquinRodriguez04/blob/main/my.gif" />
+</div>
 
 ###
 

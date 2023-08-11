@@ -5,8 +5,8 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://github.com/JoaquinRodriguez04/JoaquinRodriguez04/blob/main/my.gif" />
-  <img height="350" src="https://github.com/JoaquinRodriguez04/JoaquinRodriguez04/blob/main/My-name-is.gif" />
+  <img height="350" src="https://github.com/JoaquinRodriguez04/JoaquinRodriguez04/blob/main/my-name-is.gif" />
+  <img height="350" src="https://github.com/JoaquinRodriguez04/JoaquinRodriguez04/blob/main/focused.gif" />
 </div>
 
 ###

@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true"  />
+  <img height="400" src="https://github.com/JoaquinRodriguez04/JoaquinRodriguez04/blob/main/name-animated.gif" />
 </div>
 
 ###

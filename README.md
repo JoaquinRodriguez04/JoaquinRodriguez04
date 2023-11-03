@@ -1,30 +1,13 @@
-####
 
-<h1 align="left">Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> What's up?</h1>
+<h1 align="left" f>Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> What's up?</h1>
 
-####
-
-<div align="center">
-  <img height="450" src="https://github.com/JoaquinRodriguez04/JoaquinRodriguez04/blob/main/present.gif" />
-</div>
-
-###
-
-<h4 align="left">Hello World!!🌎 My name is Joaquin Rodriguez, I am 18 years old and I am on an exciting journey🚀 towards the world of programming👾, specifically focused on the front-end. Currently, I am studying at the National Technological University (UTN)📖, my idea is to be able to bring websites and applications to life, offering interactive and attractive experiences for users. I consider an internship as a front-end programmer to be an invaluable opportunity. To continue learning would be a great advance for my experience, in addition I would be working on real projects and collaborating with experienced professionals. Out of code, I have activities that help me stay balanced and energized. One of them is the gym, where I enjoy working on my physical and mental health, always seeking to exceed my limits and reach new goals. Also, I love bodyboarding and going for a run. Technology and web design are more than just a career for me; They represent a true passion. Every project I start becomes an opportunity to express my creativity and love for digital aesthetics.</h4>
-
-###
+<p align="left">Hello World! my name is Joaquín Rodríguez and I live in <img width="20" height="20" src="https://img.icons8.com/color/48/argentina-circular.png" alt="argentina-circular"/> <b>Buenos Aires, Argentina</b>, I am currently studying at UTN, and I focus on <img width="20" height="20" src="https://img.icons8.com/fluency/48/mac-book-air.png" alt="mac-book-air"/> <b>Front-end </b> development.</p>
 
 <h2 align="left">About me</h2>
 
-###
+<p align="left">• ✨I am very responsible.<br>• ⚡design lover.<br>• 📚 study at utn.<br>• ✅ currently focused on the front-end.<br>• ⌛i want to learn backend.<br>•  ❤️ fun facts: I love the gym, going to the beach, bodyboarding and sunbathing. 💪🏼 <br>•  ♎ I'm a pound.<br>• 🤔 I am looking for an internship in programming.</p>
 
-<p align="left">• ✨I am very responsible<br>• ⚡design lover<br>• 📚 study at utn<br>• ✅ currently focused on the front-end<br>• ⌛i want to learn backend<br>•  ❤️ fun facts: I love the gym, going to the beach, bodyboarding and sunbathing 💪🏼 <br>•  ♎ I'm a pound<br>• 🤔 I am looking for an internship in programming</p>
-
-###
-
-<h2 align="left">🛠️technologies that I use</h2>
-
-###
+<h3 align="left">🛠️technologies that I use</h3>
 
  <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo"  />
@@ -41,24 +24,10 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="25" alt="vscode logo"  />
 </div>
 
-###
-
 <h3 align="left">personal portfolio 👀</h3>
 
-###
-
-<h4 align="left">soon... 🔜</h4>
-
-###
-
-<div align="left">
-  <img height="500" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/super-kid.gif"  />
-</div>
-
-###
+<span align="left">link port</span>
 
 <div align="center">
   <img height="50" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Handshake.gif"  />
 </div>
-
-###

@@ -26,7 +26,7 @@
 
 <h3 align="left">personal portfolio 👀</h3>
 
-<span align="left">link port</span>
+<span align="left">https://joaquinrodriguez04.github.io/portfolio/</span>
 
 <div align="center">
   <img height="50" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Handshake.gif"  />
